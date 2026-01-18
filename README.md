@@ -1,5 +1,15 @@
 <h1 align="center"> Embedded Biomedical Monitoring System for Health Indicators </h1>
 
+---
+
+## 📚 Table of Contents
+- [Overview](#overview)
+- [Digital Components](#digitalcomponents)
+- [Tests](#tests)
+- [References](#references)
+- [Licence](#licence)
+- [Contact](#contact)
+
 --- 
 
 ## 🔍 Overview
