@@ -14,11 +14,11 @@
 
 The idea was to create a biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen. When it detects unusual values that could put a person in danger, the system warns the user with special components such as the LED light and the Buzzer. If the person is considered to be in danger the LED lights up and the buzzer sounds , as the display warns the user with "**CAUTION**" while providing the measured values. If, on the other hand, the user has normal values, the buzzer does not sound , the LED does not light and the display provides the message "**YOU ARE OKAY**".
 
-  |Indicator|Danger Condition|
-  | :--------------------- | :--------------------- | 
-  | **O2**| < 95% |
-  | **Body Temp**| < 36°C OR > 38 |
-  | **Pulse**| < 50 OR  > 130 |
+|Indicator|Danger Condition|
+| :--------------------- | :--------------------- | 
+| **O2**| < 95% |
+| **Body Temp**| < 36°C OR > 38 |
+| **Pulse**| < 50 OR  > 130 |
 
 <div align="center">
   <p>
