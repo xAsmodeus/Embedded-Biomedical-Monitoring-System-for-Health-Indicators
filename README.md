@@ -16,7 +16,7 @@ The idea was to create a biomedical system that measures 3 values: temperature ,
 
 If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 50 or > 130 , the LED lights up and the buzzer sounds , as the display warns the user with CAUTION while providing the measured values. If, on the other hand, the user has normal values, the buzzer does not sound , the LED does not light and the display provides the message YOU ARE OKAY.
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
 
 ---
 
