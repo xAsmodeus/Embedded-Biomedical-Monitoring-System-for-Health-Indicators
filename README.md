@@ -20,6 +20,7 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
   <p>
       <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
   </p> </div>
+  
 ---
 
 ## 🔧 Digital Components
