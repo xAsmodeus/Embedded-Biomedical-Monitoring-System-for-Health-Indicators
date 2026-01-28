@@ -20,6 +20,16 @@ The idea was to create a biomedical system that measures 3 values: Body Temperat
 | **Body Temp**| < 36°C OR > 38 |
 | **Pulse**| < 50 OR  > 130 |
 
+|Type|Quantity |
+| :--------------------- | :--------------------- | 
+| **DS18B20**| 1 |
+| **Potentiometer**| 2 |
+| **LED**| 1 |
+| **Buzzer**| 1 |
+
+---
+
+## 🔧 Wiring and Installation
 
 - The following image shows the wiring and the placement of the digital components
 
@@ -27,17 +37,6 @@ The idea was to create a biomedical system that measures 3 values: Body Temperat
   <p>
       <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
   </p> </div>
-  
----
-
-## 🔧 Digital Components
-
-|Type|Quantity |
-| :--------------------- | :--------------------- | 
-| **DS18B20**| 1 |
-| **Potentiometer**| 2 |
-| **LED**| 1 |
-| **Buzzer**| 1 |
 
 ---
 
