@@ -31,8 +31,6 @@ The idea was to create a biomedical system that measures 3 values: Body Temperat
 
 ## 🔧 Wiring and Installation
 
-- The following image shows the wiring and the placement of the digital components
-
 <div align="center">
   <p>
       <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
