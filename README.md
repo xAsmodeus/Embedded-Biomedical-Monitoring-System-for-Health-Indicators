@@ -1,4 +1,4 @@
-<h1 align="center"> Embedded Biomedical Monitoring System for Health Indicators </h1>
+<h1 align="center"> Embedded Biomedical Monitoring System for Health Biomarkers </h1>
 
 ---
 
