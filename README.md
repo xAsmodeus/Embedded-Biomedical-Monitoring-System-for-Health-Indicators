@@ -41,7 +41,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
-- **Libraries:** ...
+- **Libraries:** DallasTemperature, OneWire
 - **Platform:** Wokwi.com
 
 ---
