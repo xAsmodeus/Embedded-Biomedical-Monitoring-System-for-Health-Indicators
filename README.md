@@ -5,6 +5,7 @@
 ## 📚 Table of Contents
 - [Overview](#overview)
 - [Wiring & Installation](#wiringinstallation)
+- [Results](#results)
 - [Tools & Technologies](#tools-technologies)
 - [Licence](#licence)
 
